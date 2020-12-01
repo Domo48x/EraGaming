@@ -51,7 +51,7 @@ Para acceder a este apartado visita [el siguiente url](https://github.com/FifaUl
 2. Aarón Garduño Navarro
 3. Carlos Garza Sollano
 4. Néstor Enrique Muñóz Gómez
-5. Rodrigo Maximiliano Villanueva Gómez
+5. Rodrigo Maximiliano Villanueva Lima
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/badge/build-beta-blue
