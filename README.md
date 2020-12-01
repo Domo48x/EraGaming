@@ -35,13 +35,10 @@ Para acceder a este apartado visita [el siguiente url](https://github.com/FifaUl
 
 
 ## Historial de Publicaciones
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
+* 0.1.2
+    * Se añadieron el archivo README.md
 * 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
+    * Se añadieron las carpetas correspondientes para la división del proyecto
 * 0.1.0
     * Primeras pruebas del repositorio
 * 0.0.1
