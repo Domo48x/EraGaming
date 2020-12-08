@@ -1,4 +1,4 @@
-function A = PF(a,alpha,d,theta)
+function A = DH(a,alpha,d,theta)
 
 cth = cosd(theta);
 sth = sind(theta);
