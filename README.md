@@ -27,6 +27,13 @@ Aquí se encuentran los códigos de Arduino que utilizamos para el funcionamient
 
 Para acceder a este apartado visita [el siguiente url](https://github.com/FifaUltimateTeam/FundamentosDeRobots/tree/master/ArduinoCodes).
 
+
+## Archivos CAD
+
+Aquí se encuentran los archivos correspondientes al modelo CAD del brazo robótico utilizado.
+
+Para acceder a este apartado visita [el siguiente url](https://github.com/FifaUltimateTeam/FundamentosDeRobots/tree/master/CADFiles).
+
 ## Materiales
 
 Aquí se encuentra la documentación de los distintos elementos utilizados en el brazo robótico.
@@ -35,6 +42,16 @@ Para acceder a este apartado visita [el siguiente url](https://github.com/FifaUl
 
 
 ## Historial de Publicaciones
+* 1.0.5
+    * Se añadieron los archivos de Materials
+* 1.0.4
+    * Se añadieron los archivos de Matlab Codes
+* 1.0.3
+    * Se añadieron los archivos de Arduino Codes
+* 1.0.2
+    * Se añadieron los archivos de CAD Files
+* 1.0.1
+    * Se añadieron los archivos de Documents
 * 0.1.2
     * Se añadieron el archivo README.md
 * 0.1.1
